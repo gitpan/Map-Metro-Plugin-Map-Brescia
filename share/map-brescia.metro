@@ -1,0 +1,41 @@
+--stations
+Prealpino   
+Casazza
+Mompiano
+Europa
+Ospedale
+Marconi
+San Faustino
+Vittoria
+Stazione F.S.
+Brescia Due
+Lamarmora
+Volta
+Poliambulanza
+San Polo Parco
+San Polo Cimabue     
+Sampolino
+Sant'Eufemia-Buffalora
+
+--lines
+1|L1|Line 1
+
+--transfers
+
+--segments
+1|Prealpino|Casazza
+1|Casazza|Mompiano
+1|Mompiano|Europa
+1|Europa|Ospedale
+1|Ospedale|Marconi
+1|Marconi|San Faustino
+1|San Faustino|Vittoria
+1|Vittoria|Stazione F.S.
+1|Stazione F.S.|Brescia Due
+1|Brescia Due|Lamarmora
+1|Lamarmora|Volta
+1|Volta|Poliambulanza
+1|Poliambulanza|San Polo Parco
+1|San Polo Parco|San Polo Cimabue
+1|San Polo Cimabue|Sampolino
+1|Sampolino|Sant'Eufemia-Buffalora
